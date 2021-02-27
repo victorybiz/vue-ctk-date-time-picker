@@ -37,8 +37,8 @@ npm i --save vue-ctk-date-time-picker
 ## ES6 Modules / CommonJS
 
 ```js
-import VueCtkDateTimePicker from 'vue-ctk-date-time-picker2';
-import 'vue-ctk-date-time-picker2/dist/vue-ctk-date-time-picker2.css';
+import VueCtkDateTimePicker from 'vue-ctk-date-time-picker3';
+import 'vue-ctk-date-time-picker3/dist/vue-ctk-date-time-picker3.css';
 
 Vue.component('VueCtkDateTimePicker', VueCtkDateTimePicker);
 ```
