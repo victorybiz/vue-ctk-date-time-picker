@@ -1,6 +1,6 @@
 {
   "name": "vue-ctk-date-time-picker3",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "description": "A vue component for select date & time (modified by Victory Osayi)",
   "author": "Victory Osayi <lavictorybiz@gmail.com>",
   "scripts": {

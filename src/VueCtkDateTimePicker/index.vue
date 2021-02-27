@@ -231,7 +231,7 @@
       this.pickerPosition = this.getPosition()
       this.pickerOpen = this.open
       if (this.format === 'YYYY-MM-DD hh:mm a' && this.onlyTime) {
-        console.warn('A (time) format must be indicated/ (Ex : format="HH:mm")')
+        // console.warn('A (time) format must be indicated/ (Ex : format="HH:mm")')
       }
     },
     beforeUnmount () {
