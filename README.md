@@ -23,13 +23,13 @@ This documentation is for v2.\*. Find v1 documentation [here](./assets/doc-v1.md
 Yarn
 
 ```bash
-yarn add vue-ctk-date-time-picker
+yarn add vue-ctk-date-time-picker3
 ```
 
 NPM
 
 ```bash
-npm i --save vue-ctk-date-time-picker
+npm i --save vue-ctk-date-time-picker3
 ```
 
 # Usage
